@@ -803,5 +803,3 @@ module Homebrew
     end
   end
 end
-
-require "extend/os/parser"
